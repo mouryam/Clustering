@@ -8,7 +8,7 @@ My implementation of Clustering uses 3 classes:
 
 
 To run the program, first compile the 3 classes, then run Main like so when in the src directory,
-Make sure the training and test data are in src directory:
+Make sure the data is in src directory:
 
         $ javac Cluster.java
         $ javac Point.java
